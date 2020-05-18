@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = "One"
+first_number = 1
